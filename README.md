@@ -1,7 +1,4 @@
 ### Hi 👋 dear, Am Emmanuel Umeajaghaku Chinemerem.
-
-<!--
-
 - 🔭 I’m currently working on projects...
 - 🌱 I’m currently learning python(django) and Nodejs...
 - 👯 I’m looking to collaborate on with many techies whether no-code personal or high devs...
@@ -9,4 +6,4 @@
 - 📫 How to reach me: Linkedin:https://www.linkedin.com/in/emmanuel-umeh-35078924b
 Twitter:https://twitter.com/Emmanuel_umeh30?t=vkKog_zQcqsV1xEn7iumqg&s=08...
 - 😄 Love Reading,Coding,Entrepreneur Vibes.. 
--->
+
