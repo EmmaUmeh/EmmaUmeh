@@ -1,8 +1,9 @@
-Hi👋 meet me Emmanuel Umeh..
+Hi👋, meet me Emmanuel Umeh..
 
 ### Frontend Developer
 
-<hr/>
+Deploying more analytic mind on the case study of developing secured software products for world outreach. Aspiring fullstack software developer & Ai engineer tending to change the world with 1's & 0's, Having the goals to teach & collaborate to help build the world smartest systems to aid change the world complexity at a given set of time.  
+
 - 💻 I’m currently open to collaborations.
 - 🧠 I’m currently learning python(django) and Nodejs...
 - 💬 Ask me anything about Javascript,Typescript...
