@@ -1,14 +1,9 @@
-Hi👋, meet me Emmanuel Umeh..
-
-### Frontend Developer
-
-Deploying more analytic mind on the case study of developing secured software products for world outreach. Aspiring fullstack software developer & Ai engineer tending to change the world with  0's & 1's, Having the goals to teach & collaborate to help build the world smartest systems to aid change the world complexity at a given set of time.  
+As a software engineer, I apply my analytical mindset to the development of reliable software products for global outreach. Aspiring fullstack software developer & Ai engineer tending to change the world  using the binary language of 0's and 1's. Having the goals to teach & collaborate to help build the world smartest systems to aid change the world complexity at a given set of time.
 
 - 💻 I’m currently open to collaborations.
-- 🧠 I’m currently learning python(django) and Nodejs...
+- 🧠 I’m currently building and relearning...
 - 💬 Ask me anything about Javascript,Typescript...
 - 📫  You can contact me [Emmachinemerem04@gmail.com](mailto:Emmachinemerem04@gmail.com)
-- 😄 Love Reading,Coding,Entrepreneur Vibes.
 
 ### Skills
 <p align="left">
