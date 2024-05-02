@@ -1,4 +1,5 @@
-Software Engineer and Technical Writer.
+Emmanuel Umeajaghku is a Software Developer & Technical Writer. Passionate about building softwares and breaking complex ideas into digestible piece.
+
 
 - 💻 I’m currently open to collaborations.
 - 🧠 I’m currently building and relearning...
