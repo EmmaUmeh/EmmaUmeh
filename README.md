@@ -1,4 +1,4 @@
-As a software engineer, I apply my analytical mindset to the development of reliable software products for global outreach. Aspiring fullstack software developer & Ai engineer tending to change the world  using the binary language of 0's and 1's. Having the goals to teach & collaborate to help build the world smartest systems to aid change the world complexity at a given set of time.
+Software Engineer and Technical Writer.
 
 - 💻 I’m currently open to collaborations.
 - 🧠 I’m currently building and relearning...
